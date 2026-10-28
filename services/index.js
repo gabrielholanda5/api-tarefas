@@ -1,5 +1,5 @@
 const { Pool } = require('pg');
-require('dotenv').config()
+require('dotenv').config();
 
 /**
  * Executa uma query SQL utilizando variáveis de ambiente para conexão.
